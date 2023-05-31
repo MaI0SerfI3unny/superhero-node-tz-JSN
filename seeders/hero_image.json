@@ -1,0 +1,14 @@
+[
+    {
+        "url": "mediafile/seed_photo/superman.webp",
+        "heroId": 9281838
+    },
+    {
+        "url": "mediafile/seed_photo/spiderman.jpeg",
+        "heroId": 9281839
+    },
+    {
+        "url":"mediafile/seed_photo/batman.jpeg",
+        "heroId": 9281840
+    }
+]
