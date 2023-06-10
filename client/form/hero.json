@@ -1,0 +1,31 @@
+[
+    {
+        "title": "Nickname",
+        "type": "text",
+        "name": "nickname"
+    },
+    {
+        "title" : "Real Name",
+        "type" : "text",
+        "name" : "real_name"
+    },
+    {
+        "title" : "Description",
+        "type" : "textarea",
+        "name" : "origin_description"
+    },
+    {
+        "title" : "Superpowers",
+        "type" : "text",
+        "name" : "superpowers"
+    },
+    {
+        "title" : "Phrase",
+        "type" : "text",
+        "name" : "catch_phrase"
+    },
+    {
+        "type" : "file",
+        "name" : "Images"
+    }
+]
